@@ -1,2 +1,6 @@
 # Skills-Lab-5
-I made a program that takes a name input and an age input. Depending on your age, the program outputs different statements about you. I was very sick when we were supposed to do this in class, and I was never able to get a partner. I'm just hoping that this is good enough!!!
+This program takes your name, age, and hair color as an input. Based on the user input, different output statements are produced.
+
+To use it, just run the program, and type in your name, age, and hair color when prompted.
+
+You could download the file and add to it if you wish.
